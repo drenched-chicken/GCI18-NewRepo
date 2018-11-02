@@ -1,1 +1,5 @@
-# GCI18-NewRepo
+### Mutant Chickens
+After 5 years of wait, research has found out that chickens fed with caffeine gain the ability to fly. This was first discovered by local farmer Nick Astley who spilled coffee on his chickens' grains by accident on 6 June 2013. As he thought it would be a waste to throw away the high-quality grains, he decided to feed them to his chickens as breakfast. A week later, other than the fact that the chickens went high, the chickens were able to fly. Not believing his eyes, he called his friend, Jack Paul, a scientist, to see this phenomenon. Nick was told to keep quiet while Jack's team studied and experimented on it.
+
+### What happened?
+The news was released on 31 October 2018. Jack and his team under Life Science Project, confirmed that what Nick had seen was real. This was much disputed among the scientific community, with many skeptical while others thought it to be another great step in the advancement of technology. The caffeine had caused a slight mutation in Nick's chickens' genes, which caused the chickens to be able to fly. 
